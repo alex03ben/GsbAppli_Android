@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">gsb</string>
+    <string name="ed_login">login</string>
+    <string name="password_hint">password</string>
+    <string name="nom_bouton_connexion">Se connecter</string>
+    <string name="name_Page_connexion">Connexion</string>
+    <string name="menu_Recherche">Rechercher equipement</string>
+    <string name="menu_Reservation">Mes reservations</string>
+    <string name="menu_Demande">Demande de materiel</string>
+    <string name="menu_Deco">Deconnexion</string>
+    <string name="filtreCat">Catégorie</string>
+    <string name="filtreDateDebut">Debut de la reservation</string>
+    <string name="filtreAnne">AAAA</string>
+    <string name="filtreMois">MM</string>
+    <string name="filtreJours">JJ</string>
+    <string name="filtreHeure">Heure</string>
+    <string name="filtreMinute">Minute</string>
+    <string name="filtreDate">Date</string>
+    <string name="filtreDateFin">Fin de la reservation</string>
+    <string name="BoutonValide">Valider</string>
+    <string name="affResTitre">Liste des materiels disponible</string>
+    <string name="mesReservBoutonEnCours">Reservation en cours</string>
+    <string name="mesReservBoutonFuturs">Reservation futurs</string>
+    <string name="mesReservBoutonAncienne">Reservation ancienne</string>
+    <string name="textview">TextView</string>
+    <string name="DescDemande">Description de votre demande</string>
+    <string name="DemandeMat">Envoyer</string>
+    <string name="date_fin">Date fin</string>
+    <string name="de">De :</string>
+    <string name="date_d_but">Date début</string>
+    <string name="À">À :</string>
+    <string name="choisir">Choisir...</string>
+    <string name="filtre">Filtre</string>
+    <string name="filtres">Filtres</string>
+</resources>
